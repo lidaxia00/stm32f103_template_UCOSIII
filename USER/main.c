@@ -35,7 +35,6 @@ int main(void)
 void BSP_init(void)
 {
 	NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2);
-//	delay_init(); //delay初始化
 	LED_init();
 	uart_init(9600);
 }
