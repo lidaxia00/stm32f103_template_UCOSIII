@@ -5,4 +5,4 @@
 
 3.prepear a code editor,like vscode.
 
-4.with the gnu make tool,run "make",everything is ok!
+4.with the GNU make tool,run "make",everything is ok!
